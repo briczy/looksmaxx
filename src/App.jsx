@@ -1,7 +1,7 @@
 import { useState, useRef, useEffect, useCallback } from "react";
 
 // ── User param: yourapp.com?user=jake ────────────────────────────
-const ALLOWED_USERS = ["jake","sarah","mike","tom","emma","alex","chris","nat","ben","lily"];
+const ALLOWED_USERS = ["may","darren","nng","nwong","hsein","messiah","chris"];
 const DEFAULT_USER  = "demo";
 
 function getUser() {
